@@ -8,7 +8,7 @@ import { StoreModule } from '@ngrx/store';
 
 // REDUX2 - design pattern ktory pomnecha vsetky data v jednom JS objekte
 
-
+// nova branch
 
 @NgModule({
   
