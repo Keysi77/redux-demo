@@ -6,7 +6,7 @@ import { StoreModule } from '@ngrx/store';
 
 
 
-// REDUX - design pattern ktory pomnecha vsetky data v jednom JS objekte
+// REDUX2 - design pattern ktory pomnecha vsetky data v jednom JS objekte
 
 
 
